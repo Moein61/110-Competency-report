@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(2, 2, 37);
+    text-align: center;
+}
+
+.register-form{
+    border: 1px solid rgb(110, 74, 6);
+    padding: 30px; 
+    background-color: rgb(236, 170, 56);
+}
+
+.register-btn {
+    
+    text-align: center;
+}
+
+label {
+    text-align: right;
+}
+
+.error{
+    border: 1px solid red;
+}
+
+.hide{
+    display: none; 
+}
